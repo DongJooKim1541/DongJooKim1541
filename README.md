@@ -27,6 +27,7 @@ Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 �
 [2020] [블록체인을 이용한 전공도서 거래 어플리케이션](https://github.com/leejiyoon7/GBB_Cotton) <br/>
 [2020] [스마트폰 잠금화면 기능을 이용한 퀴즈 리워드 어플리케이션](https://github.com/DongJooKim1541/AndroidProjects_Graduation_project) <br/>
 [2020] [공공API 기반 지하철역 정보 실시간 제공 어플리케이션](https://github.com/DongJooKim1541/AndroidProjects_realtimeSubway) <br/>
+[2017] [Java와 Oracle DB를 활용한 은행업무 시스템](https://github.com/DongJooKim1541/Java_project/tree/master)
 
 ## 💬 외국어 역량
 [2023] TOEIC 765
