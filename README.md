@@ -17,6 +17,7 @@ C
 Java
 Kotlin
 Git
+Slack
 ```
 Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 및 협업 경험 있음.
 
