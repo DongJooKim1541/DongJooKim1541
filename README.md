@@ -12,6 +12,7 @@ Active Learning
 Computer Vision
 Pytorch
 Python
+OpenCV
 C++
 C
 Java
