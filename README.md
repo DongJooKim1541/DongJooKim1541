@@ -13,8 +13,7 @@ Computer Vision
 Pytorch
 Python
 OpenCV
-C++
-C
+C/C++
 Java
 Kotlin
 Git
