@@ -34,8 +34,8 @@ Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 �
 [2017.10 ~ 2017.12] [Java와 Oracle DB를 활용한 은행업무 시스템](https://github.com/DongJooKim1541/Java_project/tree/master)
 
 ## 💬 외국어 역량
-[2023.09] TOEIC 765
-[2024.02] TOEIC SPEAKING
+[2023.09] TOEIC 765 <br/>
+[2024.02] TOEIC SPEAKING 
 
 ## 📚 자격증
 [2016.08] 자동차운전면허 2종보통 - 서울지방경찰청 <br/>
