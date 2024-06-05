@@ -14,6 +14,8 @@
 Deep/Machine Learning
 Active Learning
 Computer Vision
+Machine Vision
+Camera Calibration
 Pytorch
 Python
 OpenCV
