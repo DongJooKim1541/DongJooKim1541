@@ -47,6 +47,8 @@ Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 �
 [2017.05] 정보처리기능사 - 한국산업인력공단 <br/>
 [2021.06] 정보처리기사 - 한국산업인력공단
 
+## 👯 기타
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongJooKim1541)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DongJooKim1541/DongJooKim1541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
