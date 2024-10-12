@@ -6,7 +6,7 @@
 ## 🌱 학력/경력
 [2016.03 ~ 2022.02] [가천대학교 컴퓨터공학과](https://www.gachon.ac.kr/cs) 학사 <br/>
 [2022.03 ~ 2024.02] [한양대학교 인공지능융합학과](http://aia.hanyang.ac.kr/) 석사 <br/>
-[2024.04 ~ ] [한화로보틱스](https://www.hanwharobotics.com/) Smart기술팀 연구원
+[2024.04 ~ ] [한화로보틱스](https://www.hanwharobotics.com/) 지능기술팀 연구원
 
 ## 💻 Stack
 
