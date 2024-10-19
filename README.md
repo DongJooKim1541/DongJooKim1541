@@ -11,11 +11,9 @@
 ## 💻 Stack
 
 ```
+Robot/Computer Vision
 Deep/Machine Learning
 Active Learning
-Computer Vision
-Machine(Robot) Vision
-Camera Calibration
 Pytorch
 Python
 OpenCV
@@ -26,7 +24,6 @@ Kotlin
 Git
 Slack
 ```
-Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 및 협업 경험 있음.
 
 ## 📈 논문
 [2022.03 ~ 2023.12] [Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach](https://github.com/DongJooKim1541/Interpreting-Pretext-Tasks-for-Active-Learning-A-Reinforcement-Learning-Approach), Scientific Reports 2024? <br/>
@@ -49,8 +46,6 @@ Git을 활용한 프로젝트 관리 경험 있음, 소스코드 버전 관리 �
 [2017.05] 정보처리기능사 - 한국산업인력공단 <br/>
 [2021.06] 정보처리기사 - 한국산업인력공단
 
-## 👯 기타
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongJooKim1541)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DongJooKim1541/DongJooKim1541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
