@@ -26,8 +26,8 @@ Slack
 ```
 
 ## 📈 논문
-[2022.03 ~ 2023.12] [Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach](https://github.com/DongJooKim1541/Interpreting-Pretext-Tasks-for-Active-Learning-A-Reinforcement-Learning-Approach), Scientific Reports 2024 <br/>
-[2022.08 ~ 2022.11] [의류 수요 정보 예측을 위한 멀티모달 기반 딥 뉴럴 네트워크](https://github.com/DongJooKim1541/A-multi-modal-deep-neural-network-for-predicting-clothing-demand), 2022 대한전자공학회 추계학술대회 <br/>
+[2022.03 ~ 2023.12] [Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach](https://github.com/DongJooKim1541/kim2024interpreting), Scientific Reports 2024 <br/>
+[2022.08 ~ 2022.11] [의류 수요 정보 예측을 위한 멀티모달 기반 딥 뉴럴 네트워크](https://github.com/DongJooKim1541/kim2022multi), 2022 대한전자공학회 추계학술대회 <br/>
 
 ## 🤔 개인/팀 프로젝트 
 [2024.04 ~ ] 한화로보틱스 프로젝트 진행중  <br/>
