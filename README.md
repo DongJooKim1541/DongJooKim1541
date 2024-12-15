@@ -13,24 +13,25 @@
 ```
 Robot/Computer Vision
 Deep/Machine Learning
-Active Learning
-Pytorch
 Python
+Pytorch
 OpenCV
-C#
-C/C++
+C/C++/C#
+Active Learning
 Java
 Kotlin
 Git
 Slack
 ```
 
+## 👯 회사 프로젝트
+[2024.04 ~ ] 한화로보틱스 내 프로젝트 다수 진행중  <br/>
+
 ## 📈 논문
 [2022.03 ~ 2023.12] [Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach](https://github.com/DongJooKim1541/kim2024interpreting), Scientific Reports 2024 <br/>
 [2022.08 ~ 2022.11] [의류 수요 정보 예측을 위한 멀티모달 기반 딥 뉴럴 네트워크](https://github.com/DongJooKim1541/kim2022multi), 2022 대한전자공학회 추계학술대회 <br/>
 
 ## 🤔 개인/팀 프로젝트 
-[2024.04 ~ ] 한화로보틱스 내 프로젝트 다수 진행중  <br/>
 [2022.11 ~ 2022.12] [해양 포유류 re-identification 인공지능](https://github.com/DongJooKim1541/happy_whale_and_dolphin_reid) <br/>
 [2021.05 ~ 2021.06] [악성코드 탐지 및 분류 인공지능](https://github.com/leejiyoon7/Malware-detection-and-classification) <br/>
 [2020.11 ~ 2020.12] [블록체인을 이용한 전공도서 거래 어플리케이션](https://github.com/leejiyoon7/GBB_Cotton) <br/>
