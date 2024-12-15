@@ -39,8 +39,8 @@ Slack
 [2017.10 ~ 2017.12] [Java와 Oracle DB를 활용한 은행업무 시스템](https://github.com/DongJooKim1541/Java_project/tree/master)
 
 ## 💬 외국어 역량
-[2023.09] TOEIC 765 <br/>
-[2024.02] TOEIC SPEAKING 160 / Advanced Low (AL)
+[2023.09 ~ 2025.09] TOEIC 765 <br/>
+[2024.02 ~ 2026.02] TOEIC SPEAKING 160 / Advanced Low (AL)
 
 ## 📚 자격증
 [2017.05] 정보처리기능사 - 한국산업인력공단 <br/>
