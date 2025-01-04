@@ -4,9 +4,9 @@
 
 
 ## 🌱 학력/경력
-[2016.03 ~ 2022.02] [가천대학교 컴퓨터공학과](https://www.gachon.ac.kr/cs) 학사 <br/>
+[2024.04 ~ ] [한화로보틱스](https://www.hanwharobotics.com/) 솔루션개발T/F 지능기술팀 연구원 <br/>
 [2022.03 ~ 2024.02] [한양대학교 인공지능융합학과](http://aia.hanyang.ac.kr/) 석사 <br/>
-[2024.04 ~ ] [한화로보틱스](https://www.hanwharobotics.com/) 솔루션개발T/F 지능기술팀 연구원
+[2016.03 ~ 2022.02] [가천대학교 컴퓨터공학과](https://www.gachon.ac.kr/cs) 학사
 
 ## 💻 Stack
 
@@ -40,12 +40,12 @@ Slack
 [2017.10 ~ 2017.12] [Java와 Oracle DB를 활용한 은행업무 시스템](https://github.com/DongJooKim1541/Java_project/tree/master)
 
 ## 💬 외국어 역량
-[2023.09 ~ 2025.09] TOEIC 765 <br/>
-[2024.02 ~ 2026.02] TOEIC SPEAKING 160 / Advanced Low (AL)
+[2024.02 ~ 2026.02] TOEIC SPEAKING 160 / Advanced Low (AL) <br/>
+[2023.09 ~ 2025.09] TOEIC 765 
 
 ## 📚 자격증
-[2017.05] 정보처리기능사 - 한국산업인력공단 <br/>
-[2021.06] 정보처리기사 - 한국산업인력공단
+[2021.06] 정보처리기사 - 한국산업인력공단 <br/>
+[2017.05] 정보처리기능사 - 한국산업인력공단 
 
 <!--
 **DongJooKim1541/DongJooKim1541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
