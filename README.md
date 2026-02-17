@@ -25,7 +25,7 @@ Slack
 ```
 
 ## 👯 회사 프로젝트
-[2024.04 ~ ] HWR 내 프로젝트 다수 진행중  <br/>
+[2024.04 ~ ] 프로젝트 다수 진행중  <br/>
 
 ## 📈 대학원 논문 및 프로젝트
 [2022.03 ~ 2023.12] [Interpreting Pretext Tasks for Active Learning: A Reinforcement Learning Approach](https://github.com/DongJooKim1541/kim2024interpreting), Scientific Reports 2024 <br/>
