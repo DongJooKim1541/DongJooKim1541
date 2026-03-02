@@ -3,11 +3,7 @@
 -->
 
 
-## 🌱 학력/경력
-[2026.03 ~ ] [주임연구원](https://www.hanwharobotics.com/)
-<br/>
-[2024.04 ~ 2026.02] [연구원](https://www.hanwharobotics.com/)
-<br/>
+## 🌱 학력
 [2022.03 ~ 2024.02] [한양대학교 인공지능융합학과](http://aia.hanyang.ac.kr/) 석사 <br/>
 [2016.03 ~ 2022.02] [가천대학교 컴퓨터공학과](https://www.gachon.ac.kr/cs) 학사
 
