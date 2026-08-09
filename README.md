@@ -8,14 +8,12 @@
 Robot/Computer Vision
 Deep/Machine Learning
 Python
-Pytorch
+Pytorch/OnnxRuntime
 OpenCV
 C/C++/C#
 Active Learning
-Java
-Kotlin
+Java/Kotlin
 Git
-Slack
 ```
 
 ## 👯 회사
