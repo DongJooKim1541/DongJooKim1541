@@ -2,11 +2,6 @@
 ### Hi there 👋
 -->
 
-
-## 🌱 학력
-[2022.03 ~ 2024.02] [한양대학교 인공지능융합학과](http://aia.hanyang.ac.kr/) 석사 <br/>
-[2016.03 ~ 2022.02] [가천대학교 컴퓨터공학과](https://www.gachon.ac.kr/cs) 학사
-
 ## 💻 Stack
 
 ```
@@ -37,6 +32,10 @@ Slack
 [2020.09 ~ 2020.11] [스마트폰 잠금화면 기능을 이용한 퀴즈 리워드 어플리케이션](https://github.com/DongJooKim1541/AndroidProjects_Graduation_project) <br/>
 [2020.05 ~ 2020.06] [공공API 기반 지하철역 정보 실시간 제공 어플리케이션](https://github.com/DongJooKim1541/AndroidProjects_realtimeSubway) <br/>
 [2017.10 ~ 2017.12] [Java와 Oracle DB를 활용한 은행업무 시스템](https://github.com/DongJooKim1541/Java_project/tree/master)
+
+## 🌱 학력
+[2022.03 ~ 2024.02] [한양대학교 인공지능융합학과](http://aia.hanyang.ac.kr/) 석사 <br/>
+[2016.03 ~ 2022.02] [가천대학교 컴퓨터공학과](https://www.gachon.ac.kr/cs) 학사
 
 ## 💬 외국어 역량
 [2024.02 ~ 2026.02] TOEIC SPEAKING 160 / Advanced Low (AL) <br/>
